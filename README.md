@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Esteban and I'm  from Peru, I keep learning new things. 🙃</h2>
+<h2 align="left">Hi 👋! My name is Esteban, I keep learning new things. 🙃</h2>
 
 ###
 
