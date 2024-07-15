@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Estebanpacheco18/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Estebanpacheco18/Estebanpacheco18/output/snake.svg" alt="Snake animation" />
 
 ###
 
